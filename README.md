@@ -22,7 +22,7 @@ git clone https://github.com/your-username/medical-imaging-conversion.git
 cd vip-reproducibility-conversion-images
 ```
 
-3. Navigate to the application directory (CQUEST for example):
+3. Build the images using the provided script:
 ```
 ./build.sh
 ```
