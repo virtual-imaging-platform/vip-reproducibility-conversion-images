@@ -1,0 +1,15 @@
+[
+    {
+      "application": "cquest",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "containers": ["cquest-converter:1.0"]
+        },
+        {
+          "version": "0.3",
+          "containers": ["cquest-converter:1.0"]
+        }
+      ]
+    }
+  ]
